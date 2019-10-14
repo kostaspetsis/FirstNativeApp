@@ -1,1 +1,1 @@
-![alt text](thumb.png)
+![alt text](thumbnail.png)
